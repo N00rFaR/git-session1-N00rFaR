@@ -1,2 +1,5 @@
-Personal development notes.
+Git Learning Progress:
+- Initialized a Git repository.
+- Created meaningful commits.
+- Learned how to use selective staging.
 
